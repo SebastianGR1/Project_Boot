@@ -1,0 +1,59 @@
+*{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Mina', sans-serif;
+}
+
+body{
+    background:linear-gradient(98deg,#cf1c1c,#a75454);
+}
+
+
+.card{
+    justify-content: space-around;
+    margin-left: 50px;
+    align-items: center;
+    width: 28%;
+    border-width: 4px;
+    margin-top: 30px;
+    background: none;
+    border-color: rgb(187, 82, 82) black rgb(128, 0, 0);
+    border-width: 10px;
+    border-style: solid;
+}
+
+.card img{
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 4px;
+    margin-top: 20px;
+    width: 220px;
+    height: 220px;
+    border-radius: 10px;
+}
+
+.text-size{
+    margin-top: 5px;
+    font-size: 20px;
+    font-style:oblique;
+}
+
+.Text{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.img{
+    width: 15%;
+}
+
+.list{
+    margin-left: 80px;
+    font-size: 20px;
+    color: black;
+}
+
+.list li{
+    margin-left: 50px;
+}
